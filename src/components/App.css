@@ -1,0 +1,18 @@
+.wrapper {
+  padding: 20px;
+}
+
+.wrapper h3 {
+  text-transform: capitalize;
+}
+
+.wrapper form button {
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.wrapper ul button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
